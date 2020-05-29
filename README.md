@@ -15,7 +15,7 @@ Contingut relatiu a la producció i edició de gràfics en moviment i 3d aplicat
 * [Fernández, Angel](http://github.com/angelfernandez365)
 * [Martínez, Juan](http://github.com/juanmgandia)
 * [García, Clara](http://github.com/claragarciam)
-* [Giménez, Omar](http://github.com/omarufo)
+* [Giménez, Omar](https://github.com/omarufo/3DG_TdPiED)
 * [Baldó, Natalia](http://github.com/nataliabaldogarcia)
 * [Pérez, Clara](http://github.com/claraperezmartinez)
 * [Sánchez, Patri](http://github.com/patrisanchez)
